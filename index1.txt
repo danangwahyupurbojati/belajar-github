@@ -3,5 +3,6 @@ halo perubahan kedua (outside sirclo)
 halo perubahan ketiga(outside sirclo)
 halo perubahan ketiga (inside)
 halo kurobakar (outside)
+halo update 6 sirclo
 halo 6 (outside sirclo)
 halo 7 (kurobakar)
