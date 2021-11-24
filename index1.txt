@@ -13,4 +13,8 @@ kurobakar develop 1
 outside develop 1
 kurobakar change 14
 sirclo change at 14
+<<<<<<< HEAD
 testconflict16
+=======
+sirclo conflict 16
+>>>>>>> 45fe4f0 (test conflict)
