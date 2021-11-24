@@ -6,3 +6,6 @@ halo kurobakar (outside)
 halo update 6 sirclo
 halo 6 (outside sirclo)
 halo 7 (kurobakar)
+
+start develop
+sirclo develop 1
